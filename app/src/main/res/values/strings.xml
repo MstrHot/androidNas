@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Applaut</string>
+    <string name="description_text">Привет\nЭто приложение подарит\nтебе отличный гашиш\n</string>
+    <string name="logIn">Войти в аккаунт</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
